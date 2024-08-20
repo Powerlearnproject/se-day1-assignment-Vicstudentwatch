@@ -1,5 +1,5 @@
 # SE_Day1
-#Part 1: Introduction to Software Engineering
+# Part 1: Introduction to Software Engineering
 
 ### Explain what software engineering is and discuss its importance in the technology industry.
 - Software engineering is the application of engineering principles to the design, development, testing, deployment, and maintenance of software. Its importance in the technology industry stems from its ability to manage complexity, improve quality, ensure reliability, and deliver cost-effective software solutions that meet user requirements. By following structured methodologies, software engineering helps teams build scalable and maintainable software systems that power a wide range of technologies, from mobile apps to enterprise systems.
@@ -47,7 +47,7 @@
 - Acceptance Testing: Conducted by end-users to verify that the software meets their needs and works in real-world scenarios.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+# Part 2: Introduction to AI and Prompt Engineering
 
 ### Define prompt engineering and discuss its importance in interacting with AI models.
 - Prompt engineering involves designing and refining the input prompts given to AI models to elicit useful, relevant, and high-quality responses. This discipline is crucial for maximizing the effectiveness of AI systems, particularly large language models like GPT, by guiding their outputs in the desired direction.
